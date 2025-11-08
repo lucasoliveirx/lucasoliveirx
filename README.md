@@ -1,4 +1,4 @@
-# 💻 Backend Developer from Brazil.
+# 💻 FullStack Developer from Brazil.
 I like building **scalable**, **high-performance** web systems.
 
 ---
@@ -8,6 +8,6 @@ I like building **scalable**, **high-performance** web systems.
 
 • Designs well-structured REST APIs and integrates them efficiently with modern frontends.
 
-• Skilled in developing Web APIs using **Client-Server** models and **MVC** architecture, ensuring maintainable and clean code.
+• Skilled in developing **Client-Server** applications, ensuring clean, maintainable, and high-performance code.
 
-• Combines **React** and **TypeScript** with AI-assisted workflows to effectively deliver modern, high-quality interfaces tailored to client needs.
+• Combines **React**, **TypeScript**, and **Tailwind CSS** to deliver modern, high-quality interfaces that enhance user experience and align with project goals.
