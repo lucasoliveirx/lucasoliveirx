@@ -1,5 +1,4 @@
 # 💻 FullStack Developer from Brazil.
-I like building **scalable**, **high-performance** web systems.
 
 ---
 
