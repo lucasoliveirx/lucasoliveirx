@@ -3,10 +3,12 @@
 ---
 
 ### Professional Summary
-• Specialized in **C#**, **ASP.NET Core**, and Clean Architecture, applying SOLID principles to develop robust and maintainable backends.
+• Backend: Proficiency in C# and ASP.NET Core. Experienced in applying Clean Architecture and SOLID principles to create structured, maintainable, and high-performance server-side applications.
 
-• Designs well-structured REST APIs and integrates them efficiently with modern frontends.
+• Frontend: Expertise in creating responsive and high-performance interfaces using React, TypeScript, and Tailwind CSS, with a strong focus on UX and complex state management.
 
-• Skilled in developing **Client-Server** applications, ensuring clean, maintainable, and high-performance code.
+• Data & Integration: Skilled in designing and implementing REST APIs and managing database interactions to ensure data integrity and system efficiency.
 
-• Combines **React**, **TypeScript**, and **Tailwind CSS** to deliver modern, high-quality interfaces that enhance user experience and align with project goals.
+• Version Control & Management: Experienced in using Azure DevOps for professional version control and project management, ensuring organized and collaborative development workflows.
+
+• Industrial/Business Tools: Proven track record in developing specialized tools for process monitoring and anomaly registration, translating complex business needs into functional software.
